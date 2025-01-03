@@ -1,0 +1,54 @@
+{
+    "marathonEvents": [
+      {
+        "id": 1,
+        "title": "Dhaka City Marathon",
+        "description": "Join the vibrant streets of Dhaka for an exciting marathon experience.",
+        "image": "https://i.ibb.co.com/NNCVP5w/u3.jpg",
+        "startDate": "2025-01-16",
+        "location": "Dhaka, Bangladesh"
+      },
+      {
+        "id": 2,
+        "title": "Chittagong Coastal Run",
+        "description": "Experience the beauty of the coastline in this energetic marathon.",
+        "image": "https://i.ibb.co.com/3Ng7DDF/u4.jpg",
+        "startDate": "2025-02-10",
+        "location": "Chittagong, Bangladesh"
+      },
+      {
+        "id": 3,
+        "title": "Sylhet Tea Garden Run",
+        "description": "Run through the lush green tea gardens of Sylhet.",
+        "image": "https://i.ibb.co.com/PgrtJW7/u5.jpg",
+        "startDate": "2025-03-05",
+        "location": "Sylhet, Bangladesh"
+      },
+      {
+        "id": 4,
+        "title": "Rajshahi Riverside Marathon",
+        "description": "Enjoy a scenic run by the riverside in Rajshahi.",
+        "image": "  https://i.ibb.co.com/26LsK6n/u6.webp",
+        "startDate": "2025-03-25",
+        "location": "Rajshahi, Bangladesh"
+      },
+      {
+        "id": 5,
+        "title": "London City Marathon",
+        "description": "Participate in one of the world's premier marathon events in London.",
+        "image": "https://i.ibb.co.com/8MTvgSd/u2.jpg",
+        "startDate": "2025-04-20",
+        "location": "London, United Kingdom"
+      },
+      {
+        "id": 6,
+        "title": "New York Spring Run",
+        "description": "Run through the iconic streets of New York during spring.",
+        "image": "https://i.ibb.co.com/7Ybyz5z/u1.jpg",
+        "startDate": "2025-05-10",
+        "location": "New York, USA"
+      }
+    ]
+  }
+
+  
