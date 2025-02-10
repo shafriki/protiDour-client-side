@@ -4,7 +4,7 @@ import { Typewriter } from 'react-simple-typewriter';
 
 const AboutUs = () => {
   return (
-    <div className="flex flex-col lg:flex-row justify-between gap-10 max-w-screen-xl md:mx-auto items-center p-6 border-y-8 border-[#228B22] rounded-xl lg:p-12 bg-gray-100 mx-3 my-32">
+    <div className="flex flex-col lg:flex-row justify-between gap-10 max-w-screen-xl md:mx-auto items-center p-6 rounded-xl lg:p-12 bg-gray-100 mx-3 my-32">
 
       {/* img content */}
       <div className="w-full lg:w-2/5">
